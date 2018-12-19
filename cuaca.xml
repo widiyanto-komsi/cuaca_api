@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng"
+    yahoo:count="1" yahoo:created="2018-08-27T08:09:15Z" yahoo:lang="en-US">
+    <results>
+        <channel>
+            <yweather:units
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                distance="km" pressure="mb" speed="km/h" temperature="C"/>
+            <title>Yahoo! Weather - Yogyakarta, DIY, ID</title>
+            <link>http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-1047065/</link>
+            <description>Yahoo! Weather for Yogyakarta, DIY, ID</description>
+            <language>en-us</language>
+            <lastBuildDate>Mon, 27 Aug 2018 03:09 PM WIB</lastBuildDate>
+            <ttl>60</ttl>
+            <yweather:location
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                city="Yogyakarta" country="Indonesia" region=" DIY"/>
+            <yweather:wind
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                chill="86" direction="180" speed="28.97"/>
+            <yweather:atmosphere
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                humidity="54" pressure="33762.31" rising="0" visibility="25.91"/>
+            <yweather:astronomy
+                xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                sunrise="5:42 am" sunset="5:38 pm"/>
+            <image>
+                <title>Yahoo! Weather</title>
+                <width>142</width>
+                <height>18</height>
+                <link>http://weather.yahoo.com</link>
+                <url>http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif</url>
+            </image>
+            <item>
+                <title>Conditions for Yogyakarta, DIY, ID at 02:00 PM WIB</title>
+                <geo:lat xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">-7.8</geo:lat>
+                <geo:long xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">110.366699</geo:long>
+                <link>http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-1047065/</link>
+                <pubDate>Mon, 27 Aug 2018 02:00 PM WIB</pubDate>
+                <yweather:condition
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="34" date="Mon, 27 Aug 2018 02:00 PM WIB"
+                    temp="30" text="Mostly Sunny"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="34" date="27 Aug 2018" day="Mon" high="31"
+                    low="19" text="Mostly Sunny"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="30" date="28 Aug 2018" day="Tue" high="27"
+                    low="22" text="Partly Cloudy"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="28" date="29 Aug 2018" day="Wed" high="28"
+                    low="22" text="Mostly Cloudy"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="26" date="30 Aug 2018" day="Thu" high="27"
+                    low="22" text="Cloudy"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="28" date="31 Aug 2018" day="Fri" high="27"
+                    low="22" text="Mostly Cloudy"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="47" date="01 Sep 2018" day="Sat" high="28"
+                    low="23" text="Scattered Thunderstorms"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="47" date="02 Sep 2018" day="Sun" high="30"
+                    low="22" text="Scattered Thunderstorms"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="30" date="03 Sep 2018" day="Mon" high="28"
+                    low="22" text="Partly Cloudy"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="30" date="04 Sep 2018" day="Tue" high="28"
+                    low="22" text="Partly Cloudy"/>
+                <yweather:forecast
+                    xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0"
+                    code="28" date="05 Sep 2018" day="Wed" high="28"
+                    low="22" text="Mostly Cloudy"/>
+                <description>&lt;![CDATA[&lt;img src="http://l.yimg.com/a/i/us/we/52/34.gif"/&gt;
+&lt;BR /&gt;
+&lt;b&gt;Current Conditions:&lt;/b&gt;
+&lt;BR /&gt;Mostly Sunny
+&lt;BR /&gt;
+&lt;BR /&gt;
+&lt;b&gt;Forecast:&lt;/b&gt;
+&lt;BR /&gt; Mon - Mostly Sunny. High: 31Low: 19
+&lt;BR /&gt; Tue - Partly Cloudy. High: 27Low: 22
+&lt;BR /&gt; Wed - Mostly Cloudy. High: 28Low: 22
+&lt;BR /&gt; Thu - Cloudy. High: 27Low: 22
+&lt;BR /&gt; Fri - Mostly Cloudy. High: 27Low: 22
+&lt;BR /&gt;
+&lt;BR /&gt;
+&lt;a href="http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-1047065/"&gt;Full Forecast at Yahoo! Weather&lt;/a&gt;
+&lt;BR /&gt;
+&lt;BR /&gt;
+&lt;BR /&gt;
+]]&gt;</description>
+                <guid isPermaLink="false"/>
+            </item>
+        </channel>
+    </results>
+</query>
